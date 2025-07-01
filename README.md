@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Fábio Meireles</h1>
+<h1 align="center">Fábio Meireles</h1>
 <h3 align="center">Desenvolvedor Full Stack Jr</h3>
 
 ---
