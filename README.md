@@ -16,7 +16,7 @@
 <h3 align="center">📈 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fbomrl&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbomrl&layout=compact&theme=radical&cache_seconds=3600" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbomrl&layout=compact&theme=radical" />
 </p>
 
